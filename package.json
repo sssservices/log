@@ -1,0 +1,9 @@
+{
+  "name": "@sssservices/log",
+  "version": "0.0.1",
+  "description": "The Sssservices Container package.",
+  "main": "logger.js",
+  "repository": "https://github.com/sssservices/log",
+  "author": "Wilson Lewis <wilsonlewis@gmail.com>",
+  "license": "MIT"
+}
